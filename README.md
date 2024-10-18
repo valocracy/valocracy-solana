@@ -1,2 +1,2 @@
 # Valocracy Portal URL
-https://portal.valocracy.xyz/
+https://valocracy.xyz/
